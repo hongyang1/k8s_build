@@ -1,0 +1,1 @@
+FROM prometheus-adapter/prometheus-adapter:v0.11.2
